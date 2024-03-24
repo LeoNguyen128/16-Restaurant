@@ -94,7 +94,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col text-center align-middle">
-                    <p class="lead mt-5">Theme by THANH DAT DINH <span id="year"></span> &copy; ----All right reserved.</p>
+                    <p class="lead mt-5">Theme by Minh Nguyen <span id="year"></span> &copy; ----All right reserved.</p>
                 </div>
             </div>
         </div>
