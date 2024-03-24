@@ -1,2 +1,4 @@
-# 16-Restaurant
-restaurant management
+PHO Restaurant
+
+A Web Application Made From PHP and MySql
+
